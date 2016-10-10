@@ -1,5 +1,5 @@
 code:
-***
+```
 
 START
 
@@ -32,7 +32,7 @@ END IF
 
 END
 
-***
+```
 
 
-![Flowchart](C:\Users\Kieran Welch\Desktop\UNI\Comp 110\B\flow.png)
+![Flowchart](flow.png)
